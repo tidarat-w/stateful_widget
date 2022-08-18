@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src ="assets/images/Screenshot 2022-08-18 171032.png">
+<img src ="asset/images/Screenshot 2022-08-18 171032.png">
 
 This project is a starting point for a Flutter application.
 
